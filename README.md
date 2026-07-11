@@ -1,36 +1,32 @@
-```
-                   ,:;;;;:,.                    himanshu@goyal ──────────────────────────────────
-               :+%S#@@@@@@@#S?+,                  Role       .......... AI/ML Engineer            
-            ,*S@@@@@@@###@@@@@@@S+.               Degree     .......... B.E. Computer Science Engg
-          ,?#@@###@#?;,..,*#@###@@#*.             College    .......... Keystone SOE, Pune         
-         *#@####@@*.       .*@@###@@#;            CGPA       .......... 9.36 / 10                 
-       ,S@##@@#@S:           ;###@##@@?.          Location   .......... Pune, Maharashtra, India   
-      .?@#@@@###.             ?@#@@@##@S,         Status     .......... Open to Work 🟢            
-     ,+?##@@@#@?   ..,:;::;;  +@#@@@@@#@#,                                                         
-    .+;?@#@@@#@* ,+++*???*++, ;@#@@@@@@#@#.       Lang.AI    .......... Python, SQL                
-   ,*+;%@#@@@#@* :;, .,,. .:, +@#@@@@@@@#@%       Frameworks .......... PyTorch, TensorFlow        
-   ;+;;S@#@@@#@* ;:.  ..   ., S@#@@@@@@@@#@+      LLM & RAG  .......... LangChain, LangGraph, n8n  
-  .+;+?@#@@@@#@+:+?+;:%+.,:;+.*@#@@@@@@@@###.     Vector DBs .......... FAISS, Pinecone, Chroma    
-  *??S@@@@@@@#@S;**:,*?*;,;+;,S@#@@@@@@@@@#@?     Cloud      .......... AWS SageMaker, Bedrock     
- :@#@@@@######@#*+: ,.. ...::+@########@@@###.    MLOps      .......... MLflow, DVC, Docker        
- ?@@@#@#@@@@@@###*:..:;:,  ,*S#@@@@@@@@##@@#@+    APIs       .......... FastAPI, Flask, REST API   
- SS%S@#@#%???S@#@%,,;;:::,,,%@#S??????%@@@@##%                                                     
-:*. *@@?,.  ..+##S,.:+::;,..*##?       :####@#    Experience .......... 3 Internships (AI/ML)      
-:: .S@S...;+,. ?@#:..,,,. ..*@@? .,**,. +@#@@@    Hackathons .......... Google Cloud GenAI 2025 🏆 
-,, ;#@* .:#@*..:@#;,.     .,:#@?  ,@@*  ,##@@@               .......... ISRO Hackathon 2025 🛰️     
- . ?@@+..+@#?..,#S:;,.  ..,,,#@%  ,##%  ,#@#@@                                                     
- .,##@+ .+#@?. ,#@+:;,,.,,, ?@#%  ,#@%  .#@#@@  ─ Contact ──────────────────────────────────────── 
-  ;@#@+ .+@@?.;S@#%:::,,,:.:S#@#?:.#@%  .#@#@#    Email      .......... himanshubgoyal24@gmail.com 
-  %@#@+..+@#SS@@S::*;,:::,:+,:S@@@%#@%  .#@#@%    LinkedIn   .......... linkedin.com/in/himanshu   
- ,###@+  +@#@@##+:*+**;::**:;:;S##@@#S.  S@#@+    GitHub     .......... github.com/goyalhimanshu04 
- :@##@;:%##@##@#%%%S%??+%S*???%S@###@@#*.S@##.    Portfolio  .......... [your-portfolio-link]      
-  ####S@@@###@@@@@@@#SS?**?S@@@@@@@@##@@SS#@?                                                      
-  +@#@@######@@@####@@S%S##@@##@@@@#####@##@,   ─ GitHub Stats ─────────────────────────────────── 
-   S@#@@####@@@@@@@@@##@@@@#@@@@@##@@#@###@*      Projects   .......... 6+ (AI/ML & GenAI)        
-   ,####@###@##@@@@@######@@@@@@##S%@#@S#@%       Top Skills .......... Python, LangChain, PyTorch 
-    ;@#%SSS###@@@@@@@##@@@@@@@@@@#@??S%%%,        Domains    .......... LLMs, CV, MLOps, RAG       
-     ;#%??S##@@@@@@@##@###@#@@@@@###***%. ::                                                       
-      ;%?*?%#@@@@@@#@@##@#@@@@@###%??+?*  %*                                                       
-       ,?+*%##@##@##S###@########S%*+*+.                                                           
-        .;+?S#@S####%%#####SSS##S%??;,                                                             
-```
+,*##@@@#*+.          himanshu@goyal ──────────────────────────────────────
+       ;#@@@@#*#@@@#*.          OS:         .......... Windows 11, Linux           
+     ,#@@#@*,   ,#@#@@+         Role:       .......... AI/ML Engineer              
+    ;@@##@+       ####@*        Degree:     .......... B.E. CSE (2026)             
+   ,@###@+        .##@#@#       College:    .......... Keystone SOE, Pune          
+  .;#@##@.  .,,,,  #@#@#@*      CGPA:       .......... 9.36 / 10                  
+  ,;#@#@# .;,;;;;. #@#@@#@;     Location:   .......... Pune, Maharashtra, India    
+ ,;;@##@#..       .##@@@###.    Status:     .......... Open to Work 🟢             
+ ,,*@##@#,;,.,, .,,##@@@@#@*  
+;+*#@####;;;.+;.;,,###@@@@@@    Languages.AI:    .......... Python, SQL            
+#@@@#@@##*,     .,*@#@@@#@@#    Languages.ML:    .......... PyTorch, TensorFlow    
+@@#@@@@@@#+ .,,  ;##@@@@@@@@    Languages.Web:   .......... FastAPI, Flask         
+,;##;..,*@+ ,,.. ;@+....;##@  
+ ,@+  . .#* .,.  ;@+  ,  +@#    LLM & RAG:  .......... LangChain, LangGraph, n8n  
+ +@, +#. **.     ,#+ .@; ,@#    Vector DBs: .......... FAISS, Pinecone, Chroma     
+ *@. *@, +*..  . .#+ .#+ ,@#    Cloud:      .......... AWS SageMaker, Bedrock      
+.##. *#. *@,.... +@* .@+ .@#    MLOps:      .......... MLflow, DVC, Docker         
+;@#. *@+#@;;,....,+@#+@+ .@#  
+*@#. *@@@+.;;,.;;.,*@@@* .@#    Hobbies.Tech:    .......... Building AI Agents     
+#@#,+#@##**#*+;*;+**####*,##    Hobbies.Learn:   .......... Hackathons, MOOCs      
++@##@##@@@@@##++*#@@@@##@##@  
+.##@###@@###@##@@@##@@@###@*  ─ Contact ────────────────────────────────────────────
+ +@#@##@#@@@##@##@@##*#@###.    Email:      .......... himanshubgoyal24@gmail.com  
+  ##**###@@@###@@@@@##+**+      LinkedIn:   .......... linkedin.com/in/himanshu    
+  ,*++##@@@######@@###*;+ .,    GitHub:     .......... github.com/goyalhimanshu04  
+   ,+;*#@@@######@@##*+;; ,,    Portfolio:  .......... [your-portfolio-link]       
+                              
+                              ─ GitHub Stats ───────────────────────────────────────
+                                Repos:      .......... 6+ (AI/ML & GenAI)         
+                                Top Skills: .......... Python, LangChain, PyTorch  
+                                Hackathons: .......... Google GenAI 2025 🏆 | ISRO 🛰️
+                                Lines of Code: ....... Growing every day 🚀
