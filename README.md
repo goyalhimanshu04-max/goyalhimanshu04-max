@@ -52,8 +52,9 @@ himanshu@goyal
 
 - Contact --------------------------
   Email:    himanshubgoyal24@gmail.com
-  LinkedIn: linkedin.com/in/himanshu
-  GitHub:   github.com/goyalhimanshu04
+  LinkedIn: https://www.linkedin.com/in/himanshu-goyal-98b438285/
+  GitHub:   https://github.com/goyalhimanshu04-max
+  Portfolio : https://goyalhimanshusportfolio.vercel.app/
 
 - GitHub Stats ---------------------
   Repos:    6+ (AI/ML & GenAI)
