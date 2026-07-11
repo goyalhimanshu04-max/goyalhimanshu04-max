@@ -39,8 +39,8 @@ himanshu-goyal
 
   Contact
   ├── Email     ..........  himanshubgoyal24@gmail.com
-  ├── LinkedIn  ..........  linkedin.com/in/goyalhimanshu04
-  └── Portfolio ..........  [your-portfolio-link]
+  ├── LinkedIn  ..........  https://www.linkedin.com/in/himanshu-goyal-98b438285/
+  └── Portfolio ..........  https://goyalhimanshusportfolio.vercel.app/
 ────────────────────────────────────────────────────────────────
 ```
 
